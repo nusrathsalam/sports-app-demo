@@ -1,7 +1,15 @@
 body{
+<<<<<<< HEAD
     background-color:lightblue;
 }
 .title{
     font-size: 15px;
     text-align: center;
+=======
+    background-color: aqua;
+    padding: 5 px;
+}
+.title{
+    font-size: 113px;
+>>>>>>> e34caa8096984101b0d13768787a96950eb7d98b
 }
